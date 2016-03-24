@@ -1,0 +1,70 @@
+Normaali korttipakka (52 korttia):
+ Pakan paalta: (hertta 13) (pata 10) (hertta 12) (hertta 6) (pata 9) (pata 4) (risti 2) (ruutu 7) (hertta 9) (ruutu 9) (pata 2) (hertta 4) (ruutu 8) (hertta 1) (risti 9) (pata 6) (pata 13) (pata 7) (ruutu 10) (risti 3) (pata 5) (hertta 11) (pata 3) (ruutu 4) (ruutu 2) (ruutu 13) (pata 12) (pata 11) (hertta 7) (pata 8) (risti 12) (hertta 5) (hertta 8) (ruutu 1) (risti 7) (risti 1) (risti 4) (ruutu 12) (risti 8) (ruutu 5) (risti 5) (risti 13) (risti 11) (hertta 10) (pata 1) (risti 6) (hertta 3) (risti 10) (ruutu 3) (ruutu 11) (ruutu 6) (hertta 2) 
+Pakassa on 52/52  korttia. Paallimmainen kortti on hertta 13
+
+
+Ja ikuinen pakka: ikuinen pakka sisältää kortteja -1/-1
+
+Otetaan tavallisesta pakasta yksi kortti:hertta 13
+
+Nyt tavallinen pakka on:
+ Pakan paalta: (pata 10) (hertta 12) (hertta 6) (pata 9) (pata 4) (risti 2) (ruutu 7) (hertta 9) (ruutu 9) (pata 2) (hertta 4) (ruutu 8) (hertta 1) (risti 9) (pata 6) (pata 13) (pata 7) (ruutu 10) (risti 3) (pata 5) (hertta 11) (pata 3) (ruutu 4) (ruutu 2) (ruutu 13) (pata 12) (pata 11) (hertta 7) (pata 8) (risti 12) (hertta 5) (hertta 8) (ruutu 1) (risti 7) (risti 1) (risti 4) (ruutu 12) (risti 8) (ruutu 5) (risti 5) (risti 13) (risti 11) (hertta 10) (pata 1) (risti 6) (hertta 3) (risti 10) (ruutu 3) (ruutu 11) (ruutu 6) (hertta 2) 
+Pakassa on 51/52  korttia. Paallimmainen kortti on pata 10
+
+Ikuisen pakan arvottu Kortti on ruutu 11
+Ikuisen pakan arvottu Kortti on ruutu 4
+Ikuisen pakan arvottu Kortti on ruutu 12
+
+Otettiin tavallisesta pakasta hertta 13
+Otettiin tavallisesta pakasta pata 10
+Otettiin tavallisesta pakasta hertta 12
+Otettiin tavallisesta pakasta hertta 6
+Otettiin tavallisesta pakasta pata 9
+Otettiin tavallisesta pakasta pata 4
+Otettiin tavallisesta pakasta risti 2
+Otettiin tavallisesta pakasta ruutu 7
+Otettiin tavallisesta pakasta hertta 9
+Otettiin tavallisesta pakasta ruutu 9
+Otettiin tavallisesta pakasta pata 2
+Otettiin tavallisesta pakasta hertta 4
+Otettiin tavallisesta pakasta ruutu 8
+Otettiin tavallisesta pakasta hertta 1
+Otettiin tavallisesta pakasta risti 9
+Otettiin tavallisesta pakasta pata 6
+Otettiin tavallisesta pakasta pata 13
+Otettiin tavallisesta pakasta pata 7
+Otettiin tavallisesta pakasta ruutu 10
+Otettiin tavallisesta pakasta risti 3
+Otettiin tavallisesta pakasta pata 5
+Otettiin tavallisesta pakasta hertta 11
+Otettiin tavallisesta pakasta pata 3
+Otettiin tavallisesta pakasta ruutu 4
+Otettiin tavallisesta pakasta ruutu 2
+Otettiin tavallisesta pakasta ruutu 13
+Otettiin tavallisesta pakasta pata 12
+Otettiin tavallisesta pakasta pata 11
+Otettiin tavallisesta pakasta hertta 7
+Otettiin tavallisesta pakasta pata 8
+Otettiin tavallisesta pakasta risti 12
+Otettiin tavallisesta pakasta hertta 5
+Otettiin tavallisesta pakasta hertta 8
+Otettiin tavallisesta pakasta ruutu 1
+Otettiin tavallisesta pakasta risti 7
+Otettiin tavallisesta pakasta risti 1
+Otettiin tavallisesta pakasta risti 4
+Otettiin tavallisesta pakasta ruutu 12
+Otettiin tavallisesta pakasta risti 8
+Otettiin tavallisesta pakasta ruutu 5
+Otettiin tavallisesta pakasta risti 5
+Otettiin tavallisesta pakasta risti 13
+Otettiin tavallisesta pakasta risti 11
+Otettiin tavallisesta pakasta hertta 10
+Otettiin tavallisesta pakasta pata 1
+Otettiin tavallisesta pakasta risti 6
+Otettiin tavallisesta pakasta hertta 3
+Otettiin tavallisesta pakasta risti 10
+Otettiin tavallisesta pakasta ruutu 3
+Otettiin tavallisesta pakasta ruutu 11
+Otettiin tavallisesta pakasta ruutu 6
+Otettiin tavallisesta pakasta hertta 2
+Siihen kortit loppuivat, sillä kortteja=0

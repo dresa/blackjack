@@ -1,0 +1,418 @@
+-----Tavallinen peli:
+
+(hertta 6, )
+ BJpisteet:6
+ raakapisteet:6
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(hertta 6, pata 11, )
+ BJpisteet:16
+ raakapisteet:16
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(hertta 6, pata 11, hertta 2, )
+ BJpisteet:18
+ raakapisteet:18
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+
+----Blackjack:
+
+(ruutu 1, )
+ BJpisteet:11
+ raakapisteet:1
+ onkoSoft():true
+ onkoBJMahdollinen:true
+ onkoBJ:false
+ kadessaOnAssa:true
+
+(ruutu 1, ruutu 11, )
+ BJpisteet:21
+ raakapisteet:11
+ onkoSoft():true
+ onkoBJMahdollinen:true
+ onkoBJ:true
+ kadessaOnAssa:true
+
+(ruutu 1, ruutu 11, pata 6, )
+ BJpisteet:17
+ raakapisteet:17
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+------Blackjack
+
+(risti 1, )
+ BJpisteet:11
+ raakapisteet:1
+ onkoSoft():true
+ onkoBJMahdollinen:true
+ onkoBJ:false
+ kadessaOnAssa:true
+
+(risti 1, hertta 10, )
+ BJpisteet:21
+ raakapisteet:11
+ onkoSoft():true
+ onkoBJMahdollinen:true
+ onkoBJ:true
+ kadessaOnAssa:true
+
+(risti 1, hertta 10, pata 1, )
+ BJpisteet:12
+ raakapisteet:12
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+------Onko ‰ss‰‰, onkoSoft:
+
+(ruutu 7, )
+ BJpisteet:7
+ raakapisteet:7
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(ruutu 7, hertta 2, )
+ BJpisteet:9
+ raakapisteet:9
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(ruutu 7, hertta 2, pata 1, )
+ BJpisteet:20
+ raakapisteet:10
+ onkoSoft():true
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+------onkoBJMahdollinen:
+
+(hertta 11, )
+ BJpisteet:10
+ raakapisteet:10
+ onkoSoft():false
+ onkoBJMahdollinen:true
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(hertta 11, ruutu 11, )
+ BJpisteet:20
+ raakapisteet:20
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(hertta 11, ruutu 11, ruutu 1, )
+ BJpisteet:21
+ raakapisteet:21
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+-------OnkoBJMahdollinen, raakapisteet:
+
+
+(risti 1, )
+ BJpisteet:11
+ raakapisteet:1
+ onkoSoft():true
+ onkoBJMahdollinen:true
+ onkoBJ:false
+ kadessaOnAssa:true
+
+(risti 1, pata 2, )
+ BJpisteet:13
+ raakapisteet:3
+ onkoSoft():true
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+(risti 1, pata 2, hertta 2, )
+ BJpisteet:15
+ raakapisteet:5
+ onkoSoft():true
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+-----Loput ovat oikein toimivia
+-----variaatioita aiemmista
+
+(ruutu 12, )
+ BJpisteet:10
+ raakapisteet:10
+ onkoSoft():false
+ onkoBJMahdollinen:true
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(ruutu 12, pata 8, )
+ BJpisteet:18
+ raakapisteet:18
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(ruutu 12, pata 8, pata 5, )
+ BJpisteet:23
+ raakapisteet:23
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+---------------------
+
+
+(pata 8, )
+ BJpisteet:8
+ raakapisteet:8
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(pata 8, hertta 12, )
+ BJpisteet:18
+ raakapisteet:18
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(pata 8, hertta 12, hertta 3, )
+ BJpisteet:21
+ raakapisteet:21
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+---------------------
+
+(hertta 8, )
+ BJpisteet:8
+ raakapisteet:8
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(hertta 8, risti 1, )
+ BJpisteet:19
+ raakapisteet:9
+ onkoSoft():true
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+(hertta 8, risti 1, ruutu 1, )
+ BJpisteet:20
+ raakapisteet:10
+ onkoSoft():true
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+--------------------
+
+(risti 10, )
+ BJpisteet:10
+ raakapisteet:10
+ onkoSoft():false
+ onkoBJMahdollinen:true
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(risti 10, risti 12, )
+ BJpisteet:20
+ raakapisteet:20
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(risti 10, risti 12, risti 6, )
+ BJpisteet:26
+ raakapisteet:26
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+----------------------
+
+(risti 13, )
+ BJpisteet:10
+ raakapisteet:10
+ onkoSoft():false
+ onkoBJMahdollinen:true
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(risti 13, pata 9, )
+ BJpisteet:19
+ raakapisteet:19
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(risti 13, pata 9, pata 11, )
+ BJpisteet:29
+ raakapisteet:29
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+--------------------
+
+(pata 8, )
+ BJpisteet:8
+ raakapisteet:8
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(pata 8, pata 4, )
+ BJpisteet:12
+ raakapisteet:12
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(pata 8, pata 4, hertta 1, )
+ BJpisteet:13
+ raakapisteet:13
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+---------------------
+
+(ruutu 8, )
+ BJpisteet:8
+ raakapisteet:8
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(ruutu 8, pata 6, )
+ BJpisteet:14
+ raakapisteet:14
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(ruutu 8, pata 6, hertta 1, )
+ BJpisteet:15
+ raakapisteet:15
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+--------------------
+
+(hertta 5, )
+ BJpisteet:5
+ raakapisteet:5
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(hertta 5, ruutu 4, )
+ BJpisteet:9
+ raakapisteet:9
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(hertta 5, ruutu 4, pata 1, )
+ BJpisteet:20
+ raakapisteet:10
+ onkoSoft():true
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:true
+
+---------------------
+
+(hertta 3, )
+ BJpisteet:3
+ raakapisteet:3
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(hertta 3, hertta 9, )
+ BJpisteet:12
+ raakapisteet:12
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+(hertta 3, hertta 9, ruutu 9, )
+ BJpisteet:21
+ raakapisteet:21
+ onkoSoft():false
+ onkoBJMahdollinen:false
+ onkoBJ:false
+ kadessaOnAssa:false
+
+
+-----------------------------------
+
+
+
+Toinen Kortti on:risti 3
+
+Virheellinen nollas Kortti on:null
+
+Virheellinen viides Kortti on:null
+
+Alkuperainen:(risti 4, risti 3, ruutu 4, risti 9, )
+ BJpisteet:20
+       Kopio:(risti 4, risti 3, ruutu 4, risti 9, )
+ BJpisteet:20
+Kopio ei voi ottaa kortteja, vai voiko: false
+
+Kadessa voi olla enentaan 22 korttia
+
+Kaden ainoa Kortti pit‰isi olla 'risti 3' : (risti 3, )
+ BJpisteet:3
+Ohjelman pit‰isi kaatua kun yritet‰‰n vied‰ k‰teen v‰kisin null-arvo
+
+Testaajan huomio: (--KAATUI--)

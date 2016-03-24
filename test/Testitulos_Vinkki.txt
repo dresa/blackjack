@@ -1,0 +1,180 @@
+
+Jakaja: (risti 12, )
+ BJpisteet:10
+Pelaaja: (ruutu 10, risti 3, )
+ BJpisteet:13
+Vinkki:H
+
+Jakaja: (hertta 8, )
+ BJpisteet:8
+Pelaaja: (hertta 6, ruutu 7, )
+ BJpisteet:13
+Vinkki:H
+
+Jakaja: (pata 4, )
+ BJpisteet:4
+Pelaaja: (pata 6, pata 5, )
+ BJpisteet:11
+Vinkki:D
+
+Jakaja: (ruutu 1, )
+ BJpisteet:11
+Pelaaja: (hertta 6, pata 3, )
+ BJpisteet:9
+Vinkki:H
+
+Jakaja: (hertta 7, )
+ BJpisteet:7
+Pelaaja: (pata 4, ruutu 9, )
+ BJpisteet:13
+Vinkki:H
+
+Jakaja: (ruutu 7, )
+ BJpisteet:7
+Pelaaja: (risti 2, ruutu 7, )
+ BJpisteet:9
+Vinkki:H
+
+Jakaja: (ruutu 4, )
+ BJpisteet:4
+Pelaaja: (risti 6, hertta 1, )
+ BJpisteet:17
+Vinkki:H
+
+Jakaja: (ruutu 9, )
+ BJpisteet:9
+Pelaaja: (hertta 10, hertta 9, )
+ BJpisteet:19
+Vinkki:S
+
+Jakaja: (hertta 8, )
+ BJpisteet:8
+Pelaaja: (hertta 12, pata 3, )
+ BJpisteet:13
+Vinkki:H
+
+Jakaja: (risti 8, )
+ BJpisteet:8
+Pelaaja: (risti 7, risti 1, )
+ BJpisteet:18
+Vinkki:S
+
+Jakaja: (hertta 3, )
+ BJpisteet:3
+Pelaaja: (risti 3, pata 13, )
+ BJpisteet:13
+Vinkki:S
+
+Jakaja: (ruutu 12, )
+ BJpisteet:10
+Pelaaja: (pata 1, risti 10, )
+ BJpisteet:21
+Vinkki:S
+
+Jakaja: (pata 6, )
+ BJpisteet:6
+Pelaaja: (risti 13, hertta 4, )
+ BJpisteet:14
+Vinkki:S
+
+Jakaja: (ruutu 2, )
+ BJpisteet:2
+Pelaaja: (ruutu 2, pata 7, )
+ BJpisteet:9
+Vinkki:H
+
+Jakaja: (pata 13, )
+ BJpisteet:10
+Pelaaja: (ruutu 3, ruutu 3, )
+ BJpisteet:6
+Vinkki:H
+
+Jakaja: (risti 12, )
+ BJpisteet:10
+Pelaaja: (ruutu 10, risti 1, )
+ BJpisteet:21
+Vinkki:S
+
+Jakaja: (risti 1, )
+ BJpisteet:11
+Pelaaja: (pata 9, hertta 3, )
+ BJpisteet:12
+Vinkki:H
+
+Jakaja: (pata 1, )
+ BJpisteet:11
+Pelaaja: (pata 8, hertta 11, )
+ BJpisteet:18
+Vinkki:S
+
+Jakaja: (risti 8, )
+ BJpisteet:8
+Pelaaja: (ruutu 9, hertta 9, )
+ BJpisteet:18
+Vinkki:SP
+
+Jakaja: (hertta 5, )
+ BJpisteet:5
+Pelaaja: (hertta 4, ruutu 10, )
+ BJpisteet:14
+Vinkki:S
+
+Jakaja: (risti 10, )
+ BJpisteet:10
+Pelaaja: (hertta 10, hertta 4, )
+ BJpisteet:14
+Vinkki:H
+
+Jakaja: (pata 11, )
+ BJpisteet:10
+Pelaaja: (ruutu 1, hertta 5, )
+ BJpisteet:16
+Vinkki:H
+
+Jakaja: (risti 7, )
+ BJpisteet:7
+Pelaaja: (ruutu 2, hertta 1, )
+ BJpisteet:13
+Vinkki:H
+
+Jakaja: (ruutu 10, )
+ BJpisteet:10
+Pelaaja: (pata 12, pata 10, )
+ BJpisteet:20
+Vinkki:S
+
+Jakaja: (ruutu 8, )
+ BJpisteet:8
+Pelaaja: (hertta 13, hertta 5, )
+ BJpisteet:15
+Vinkki:H
+
+Jakaja: (ruutu 6, )
+ BJpisteet:6
+Pelaaja: (hertta 10, pata 5, )
+ BJpisteet:15
+Vinkki:S
+
+Jakaja: (risti 9, )
+ BJpisteet:9
+Pelaaja: (pata 2, risti 7, )
+ BJpisteet:9
+Vinkki:H
+
+Jakaja: (risti 12, )
+ BJpisteet:10
+Pelaaja: (risti 9, hertta 4, )
+ BJpisteet:13
+Vinkki:H
+
+Jakaja: (pata 5, )
+ BJpisteet:5
+Pelaaja: (ruutu 2, pata 3, )
+ BJpisteet:5
+Vinkki:H
+
+Jakaja: (hertta 2, )
+ BJpisteet:2
+Pelaaja: (risti 2, risti 3, )
+ BJpisteet:5
+Vinkki:H

@@ -1,0 +1,9 @@
+jokeri 1 -kortti on Kortti-oliona null  (Jos null, niin metodi huomasi virheellisen maa-arvon
+ruutu 0 -kortti on Kortti-oliona null  (Jos null, niin metodi huomasi virheellisen arvon
+<null> 0 -kortti on Kortti-oliona null  (Jos null, niin metodi huomasi virheellisen maa-arvon
+Yritettiin luoda 'ruUTu 2', saatiin ruutu 2, jonka kuvatiedosto on: ruutu2.gif
+Kortin hertta 12 kuvatiedosto on hertta12.gif
+Virheellisen kortin <null> 12 kuvatiedosto on null
+Kortin rUuTU 8 kuvatiedosto on ruutu8.gif
+Virheellisen kortin jokeri 1 kuvatiedosto on null
+Virheellisen kortin pata -3 kuvatiedosto on null
