@@ -1,0 +1,20 @@
+MUUTOSEHDOTUKSIA 23.4.2003:
+--------------------------
+
+ONGELMAT:
+- Pelaajan kortit tulostuvat vasta kun kaikki kolme korttia on jaettu,
+  tuplausnappi kummittelee, pelaajan 2 ruudut eivät häivy ajallaan,
+  edellisen kierroksen kortit eivät nollaudu heti kierroksen alussa
+   --------> päivityksen tauko-ongelma
+- Vinkkitaulukko ei ota huomioon pelaajan rahavaroja - onko tama virhe?
+
+MUUTOKSET:
+- Taukometodin uudistus?
+- Vinkkiruudun korvaaminen jollakin muulla komponentilla
+- Tuplapuskurointi kuvien tulostukseen
+- Ohjelman muuttaminen Appletiksi
+
+LISAYKSET:
+- Highscore-tiedostonkasittely (oma luokkansa)
+- Korttipakan tiedot nakyville (ehka myos kuva ja sekoitusanimaatio)
+- Onko ilmoitus tehdyista erikoistoiminnoista tarpeellinen?
